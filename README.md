@@ -24,3 +24,5 @@ Upload documents and "talk" with them using natural language.
 
 ## Accessing generated code
 
+### Generate code
+
