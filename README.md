@@ -20,3 +20,7 @@ Upload documents and "talk" with them using natural language.
 
 ### Conduct data analysis
 
+### Data visualization
+
+## Accessing generated code
+
